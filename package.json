@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Narayana-1723/PROJECTFINAL.git",
+  "homepage": "https://Narayana-1723.github.io/PROJECTFINAL/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
